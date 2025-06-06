@@ -1,1 +1,2 @@
 # Real-time-bike-data-jcdecaux-
+The data was collected using a real-time bike-sharing API with an API key in Python. The requests library was used to fetch the data at regular intervals, and the results were stored in CSV format using pandas. After collecting the data, it was cleaned by handling missing values, filtering out invalid records, and converting time-related columns into the correct format. Once cleaned, the data was analyzed using pandas and numpy to explore usage patterns, identify the busiest stations, and observe trends over time.
